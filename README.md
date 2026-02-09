@@ -394,8 +394,7 @@ To request code access to this repository, please:
 CONTACT & COLLABORATION
 -----------------------
 For inquiries about this project or access requests:
-Email: [Add contact email]
-GitHub: [Add GitHub profile link]
-Educational Partnerships: [Add partnership info]
+Email: aethra.tech.hq@gmail.com
+GitHub: www.github.com/Aethra-Tech
 
 ===============================================
